@@ -5,5 +5,6 @@
 ---
 **Article List**
 
+- [React Fiber架构](./pages/3.%20React%20Fiber%20架构.md)
 - [React Fiber中使用链表遍历组件树的方式和原因](./pages/1.%20React%20Fiber中使用链表遍历组件树的方式和原因.md)
 - [深入解读react中state和props更新](./pages/2.%20深入解读react中state和props更新.md)
