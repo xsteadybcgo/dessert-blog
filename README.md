@@ -8,3 +8,7 @@
 - [React Fiber架构](./pages/3.%20React%20Fiber%20架构.md)
 - [React Fiber中使用链表遍历组件树的方式和原因](./pages/1.%20React%20Fiber中使用链表遍历组件树的方式和原因.md)
 - [深入解读react中state和props更新](./pages/2.%20深入解读react中state和props更新.md)
+
+**Other list**
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Rendering_engines)
+- [react原理加深理解系列两篇](http://www.taoweng.site/index.php/archives/262/)
